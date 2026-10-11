@@ -1,7 +1,7 @@
 ---
-title: "Sunricher SRP-ZG9105-CC control via MQTT"
-description: "Integrate your Sunricher SRP-ZG9105-CC via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendor's bridge or gateway."
-addedAt: 2021-01-31T22:24:43Z
+title: "Sunricher SRP-ZG9105N-CC control via MQTT"
+description: "Integrate your Sunricher SRP-ZG9105N-CC via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendor's bridge or gateway."
+addedAt: 2026-10-11T20:20:00Z
 pageClass: device-page
 ---
 
@@ -11,7 +11,7 @@ pageClass: device-page
 <!-- Do not use h1 or h2 heading within "## Notes"-Section. -->
 <!-- !!!! -->
 
-# Sunricher SRP-ZG9105-CC
+# Sunricher SRP-ZG9105N-CC
 
 |     |     |
 |-----|-----|
@@ -19,7 +19,7 @@ pageClass: device-page
 | Vendor  | [Sunricher](/supported-devices/#v=Sunricher)  |
 | Description | Constant Current Zigbee LED dimmable driver |
 | Exposes | light (state, brightness), effect, power_on_behavior, external_switch_type |
-| Picture | ![Sunricher SRP-ZG9105-CC](https://www.zigbee2mqtt.io/images/devices/SRP-ZG9105-CC.png) |
+| Picture | ![Sunricher SRP-ZG9105-CC](https://www.zigbee2mqtt.io/images/devices/SRP-ZG9105N-CC.png) |
 
 
 
